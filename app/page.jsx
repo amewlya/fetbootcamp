@@ -6,10 +6,10 @@ export default function Portfolio() {
       <section className="text-center space-y-4">
 
         {/* EDIT: Your full name */}
-        <h1 className="text-5xl font-bold text-slate-900">Puteri Amelya</h1>
+        <h1 className="text-5xl font-bold text-slate-900">kyi phyu myat kyaw</h1>
 
         {/* EDIT: Your job title or tagline */}
-        <p className="text-xl text-indigo-600 font-medium">Aspiring Electronic Engineer</p>
+        <p className="text-xl text-indigo-600 font-medium">Aspiring Mechanical Engineer</p>
 
         {/* Contact links */}
         <div className="flex justify-center gap-6 text-sm text-slate-500">
